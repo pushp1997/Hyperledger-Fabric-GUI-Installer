@@ -1,7 +1,7 @@
-# Hyperledger-Fabric-Automate-Installer
+# Hyperledger Fabric Automate Installer
 
-Hyperledger fabric tools
-
-Linked tutorial : https://medium.com/@pechin.leo/hyperledger-fabric-automatic-deployement-770f0c785031
+## Prerequisite:
+* docker
+* docker-compose
 
 <Readme in progress> 
